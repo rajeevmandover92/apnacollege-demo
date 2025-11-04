@@ -2,3 +2,4 @@
 This is my first git repository
 <br>
 author - Rajeev coder
+taught by - Shradha Khapra
